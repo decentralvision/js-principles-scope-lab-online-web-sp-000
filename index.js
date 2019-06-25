@@ -7,6 +7,6 @@ function setBestCustomer() {
   var bestCustomer = 'not bob'
 }
 
-function overwriteBestCustomer() {
-  var bestCustomer =
+function overwriteBestCustomer(newBestCustomer) {
+  var bestCustomer = newBestCustomer
 }
